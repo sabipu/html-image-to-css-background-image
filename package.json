@@ -1,0 +1,13 @@
+{
+  "name": "html-image-css-background",
+  "version": "1.1.0",
+  "description": "Convert HTML image to CSS background image to add custom CSS property.",
+  "license": "MIT",
+  "repository": "sabipu/html-image-to-css-background-image",
+  "main": "index.js",
+  "keywords": [
+    "html to css image",
+    "npm",
+    "package"
+  ]
+}
